@@ -11,14 +11,10 @@ A comprehensive platform for fostering innovation.
 4. Interactive Dashboard: Easy navigation through an intuitive dashboard interface.
 
 # Getting Started
-Clone the Repository:
+<h2>Clone the Repository:</h2>
+git clone "https://github.com/Sainy-Mishra/INNOHUB.git"
 
-bash
-Copy code
-git clone https://github.com/yourusername/ProjectShare.git
-Navigate to the Project Directory:
+<h2>Navigate to the Project Directory:</h2>
+cd INNOHUB
 
-bash
-Copy code
-cd ProjectShare
-Open the index.html file in your browser to view the registration page and start interacting with the project.
+<h3>Open the index.html file in your browser to view the registration page and start interacting with the project.</h3>
