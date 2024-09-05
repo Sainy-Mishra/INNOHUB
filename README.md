@@ -13,7 +13,7 @@ A comprehensive platform for fostering innovation.
 # Getting Started
 ## Clone the Repository:
 ```bash
-git clone https://github.com/Sainy-Mishra/INNOHUB.git
+git clone "https://github.com/Sainy-Mishra/INNOHUB.git"
 ```
 ## Navigate to the Project Directory:
 ```bash
