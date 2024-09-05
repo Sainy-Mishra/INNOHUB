@@ -1,4 +1,4 @@
-# INNOHUB
+# InnoHub
 A comprehensive platform for fostering innovation.
 <br>
 
